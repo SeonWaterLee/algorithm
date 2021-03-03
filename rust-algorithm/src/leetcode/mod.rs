@@ -1,1 +1,2 @@
 mod q_1052_grumpy_bookstore_owner;
+mod q_832_flipping_an_image;
